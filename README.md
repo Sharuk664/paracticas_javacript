@@ -1,1 +1,1 @@
-# paracticas_javacript
+# practicas_javacript
